@@ -1,0 +1,6 @@
+![MainActivity](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/2ebf33e9-a98b-4cc6-b9e4-441bd30473d6)
+![Main2Activity](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/293774ab-3ebd-40a2-8f26-f177ff4191a6)
+![S1Details](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/a97015dc-7a47-47ea-a03f-0f2d00b61cb9)
+![S2Details](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/8198d5cb-8fdf-413b-8c8a-2bb3e75f19c6)
+![S3Details](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/09e3716e-7c3a-42d9-b143-cd0f923b45d3)
+![S4Details](https://github.com/RobertOng1/KotlinStudentAppGDSCMobile/assets/151591969/535717f9-f2fb-47d1-aa6f-36c85f7d05e8)
